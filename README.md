@@ -1,2 +1,3 @@
-[![FrancisLucban's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisLucban)](https://github.com/FrancisLucban/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrancisLucban&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+
 
