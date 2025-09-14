@@ -17,6 +17,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" width="60px" alt="anaconda">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Markdown-Dark.svg" width="60px" alt="markdown">
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="60px" alt="linux">
+  <img src="https://icon.icepanel.io/Technology/svg/Figma.svg" width="60px" alt="figma">
 </p>
 
 ## 📱 Connect with Me
@@ -28,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60px" alt="instagram">
   </a>
 </p>
+
 
 
 
