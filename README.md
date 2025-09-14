@@ -18,11 +18,12 @@
 </p>
 
 ## 📱 Connect with Me
-<p align="cemter">
+<p align="center">
   <a href="https://www.linkedin.com/in/fmolucban/">
     <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="60px">
   </a>
 </p>
+
 
 
 
