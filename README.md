@@ -17,6 +17,12 @@
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="60px">
 </p>
 
+## 📱 Connect with Me
+<p align="cemter">
+  <a href="https://www.linkedin.com/in/fmolucban/">
+  <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="60px">
+</p>
+
 
 
 
