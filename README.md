@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="60px" alt="javascript">
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="60px" alt="node.js">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" width="60px" alt="electron.js">
-  <img src="https://doc.qt.io/qtforpython-6/_static/qtforpython.png" width="60px" alt="pyside6">
+  <img src="https://doc.qt.io/qtforpython-6/_static/qtforpython.png" width="70px" alt="pyside6">
 </p>
 
 ## 🛠️ Tools and Platforms
@@ -31,6 +31,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60px" alt="instagram">
   </a>
 </p>
+
 
 
 
