@@ -1,11 +1,16 @@
 ## 🖥️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,js,nodejs,electron,mysql,sqlite)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,js,nodejs,electron,mysql,sqlite" />
+  </a>
+</p>
 
 ## 🛠️ Tools and Platforms
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,md,anaconda,linux,figma)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,anaconda,linux,figma" />
+  </a>
+</p>
 
 ## 📱 Connect with Me
 <p align="center">
@@ -16,5 +21,6 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60px" alt="instagram">
   </a>
 </p>
+
 
 
