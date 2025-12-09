@@ -1,17 +1,6 @@
 ## 🖥️ Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="60px" alt="python">
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="60px" alt="html">
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="60px" alt="css">
-  <img src="https://icon.icepanel.io/Technology/svg/Sass.svg" width="60px" alt="sass">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="60px" alt="javascript">
-  <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="60px" alt="node.js">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png" width="60px" alt="electron.js">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" width="60px" alt="Flask">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="60px" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" width="60px" alt="SQLite">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/QT-Dark.svg" width="60px" alt="QT">
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,js,nodejs,electron,mysql,sqlite)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
 <p align="center">
@@ -35,37 +24,3 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60px" alt="instagram">
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
