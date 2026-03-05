@@ -13,7 +13,7 @@
 </p>
 
 ### 📱 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/fmolucban/">
     <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="48px" alt="linkedin">
   </a>
@@ -21,6 +21,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="48px" alt="instagram">
   </a>
 </p>
+
 
 
 
