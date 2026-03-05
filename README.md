@@ -1,4 +1,6 @@
-### 🖥️ My Tech Stack
+# Hello! 👋
+<b>I'm Francis</b> - a computer engineering student and an aspiring fullstack developer
+
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,bootstrap,js,nodejs,electron,mysql,sqlite" />
@@ -21,6 +23,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="48px" alt="instagram">
   </a>
 </p>
+
 
 
 
