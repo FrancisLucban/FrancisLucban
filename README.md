@@ -10,13 +10,14 @@
 ### 🛠️ Tools and Platforms
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,anaconda,apple,linux,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,md,gcp,anaconda,apple,linux,figma,postman" />
   </a>
 </p>
 
 ### 📱 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmolucban/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucbanfm/)
+
 
 
 
