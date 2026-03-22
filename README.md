@@ -3,7 +3,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,js,nodejs,electron,vue,mysql,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,sass,flask,qt,js,nodejs,astro,electron,vue,mysql,postgresql,sqlite" />
   </a>
 </p>
 
